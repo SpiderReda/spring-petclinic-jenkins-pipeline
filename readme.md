@@ -1,11 +1,11 @@
 # Jenkins Pipeline for Spring-PetClinic Project (Deploy to DockerHub)
 
-![
-    
-](image.png)
+
 
 
 ## Résultat global après lancement 
+
+![Alt text](image.png?raw=true "Title")
 
 ## log de tests
 
